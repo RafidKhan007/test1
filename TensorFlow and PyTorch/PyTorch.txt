@@ -1,0 +1,2 @@
+conda install pytorch torchvision torchaudio cudatoolkit pytorch-cuda=12.1 -c pytorch -c nvidia
+conda install pytorch torchvision torchaudio cudatoolkit pytorch-cuda=12.1 tensorflow-gpu cudatoolkit cudnn -c pytorch -c nvidia -c conda-forge
